@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 addff
+
+merge after commit, and push.
